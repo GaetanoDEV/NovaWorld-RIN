@@ -21,6 +21,8 @@ Includendo alcuni Server Minecraft che possono essere:
 Vorremmo racchiudere tutti i piccoli o nuovi progetti in giro per Minecraft ITALIA in un unico Network che ingloba tutti i server che faranno parte al progetto, inclusi i membri dello staff ed Head-Staff.
 La gestione di quest'ultimo Network diventa quindi di tutti i Fondatori di tutti i server aderenti, cosi facendo diventare il Network (NovaWorld) proprietà di tutti coloro aderenti al progetto a livello di soli Fondatori Principali.
 
+Si ovvia specificare che i gestori selezionati per l'aderenza al Network, dovranno e saranno tutti personaggi di fiducia, specializzati e qualificati, si prevede una ristretta cerchia di Servers aderenti.
+
 Per trovare un punto d'accordo con tutti i proprietari siamo disposti ad incrociare le idee prendendo un punto di incontro in modo tale da bilanciare tutte le idee soggettive, preoccupazioni, dubbi, o incoerenze che differenziano i Server tra di loro.
 Con ovvia comprensione rispettiamo la decisione di coloro che: per motivi legati al server non sono interessati al cambio del nome al progetto loro legato, per questo motivo, essendo un Network, diamo possibilità di utilizzare il nome della propria modalità come nome effettivo del server di appartenenza.
 
