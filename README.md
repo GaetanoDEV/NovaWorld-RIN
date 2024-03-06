@@ -58,7 +58,7 @@ I ruoli presenti in questo momento su NovaWorld sono:
 - T-Helper (Trial)
 - Helper Supporter
 - Helper SS
--  MOD
+- Mod
 - Developer / Pluginner
 - Admin
 - Founder
@@ -67,7 +67,7 @@ ciò non esclude che in caso di collaborazione di ambo i server, possano essere 
 Lo Staff può decidere se effettuare lavoro in tutto il Network (tutte le modalità) oppure solo in quella originaria, isolando cosi i permessi da altre modalità;
 In caso di prima scelta, i fondatori delle modalità esterne decideranno su quale ruolo adattare lo staffer, esempio:
 
-Se un Sr.Admin di X Server decide di esprimere il suo lavoro in tutto il network, questo verrà revisionato ed in caso sia idoneo viene impostato Admin oppure MOD nella modalità Y, dove il rank Sr.Admin è inesistente.
+Se un Sr.Admin di X Server decide di esprimere il suo lavoro in tutto il network, questo verrà revisionato ed in caso sia idoneo viene impostato Admin oppure Mod nella modalità Y, dove il rank Sr.Admin è inesistente.
 
 # 3.1 Head-Staff
 Il nostro ragionamento di Head-Staff è di includere i seguenti ruoli:
