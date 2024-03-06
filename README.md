@@ -2,13 +2,13 @@
 
 # NovaWorld - Regolamento Inglobazione Network
 Indice:
-- I. Il progetto
-- II. Organizzazione dei Social & Community
-- III. Organizzazione del Team Staff & Head-Staff
-- IV. Suddivisione delle modalità
-- V. Organizzazione lato economia
-- VI. Organizzazione lato tecnico
-- VII. Finalizzazione & patto Head-Staff
+- 1. Il progetto
+- 2. Organizzazione dei Social & Community
+- 3. Organizzazione del Team Staff & Head-Staff
+- 4. Suddivisione delle modalità
+- 5. Organizzazione lato economia
+- 6. Organizzazione lato tecnico
+- 7. Finalizzazione & patto Head-Staff
 
 ## 
 # 1. Il progetto
@@ -58,7 +58,7 @@ I ruoli presenti in questo momento su NovaWorld sono:
 - T-Helper (Trial)
 - Helper Supporter
 - Helper SS
-- Mod
+-  MOD
 - Developer / Pluginner
 - Admin
 - Founder
@@ -67,7 +67,7 @@ ciò non esclude che in caso di collaborazione di ambo i server, possano essere 
 Lo Staff può decidere se effettuare lavoro in tutto il Network (tutte le modalità) oppure solo in quella originaria, isolando cosi i permessi da altre modalità;
 In caso di prima scelta, i fondatori delle modalità esterne decideranno su quale ruolo adattare lo staffer, esempio:
 
-Se un Sr.Admin di X Server decide di esprimere il suo lavoro in tutto il network, questo verrà revisionato ed in caso sia idoneo viene impostato Admin oppure Mod nella modalità Y, dove il rank Sr.Admin è inesistente.
+Se un Sr.Admin di X Server decide di esprimere il suo lavoro in tutto il network, questo verrà revisionato ed in caso sia idoneo viene impostato Admin oppure MOD nella modalità Y, dove il rank Sr.Admin è inesistente.
 
 # 3.1 Head-Staff
 Il nostro ragionamento di Head-Staff è di includere i seguenti ruoli:
@@ -78,3 +78,51 @@ Il nostro ragionamento di Head-Staff è di includere i seguenti ruoli:
 I Founder avranno potere sull'intero network a differenza dei ruoli minori;
 I Founder impostati saranno SOLO i Fondatori Principali del Server, che non comprende Co-Founder, Owners o collaboratori.
 I ruoli Co-Founder ed eventualmente Owner sono considerati Head-Staff, ma dovranno essere riadattati in caso di applicazione del ruolo in tutte le modalità, seguendo lo schema del rank minori descritti sù (3)
+
+##
+# 4. Le modalità
+Ogni server può integrare le sue modalità all'interno del Network, sotto propria gestione seguendo anche le normative decise durante l'organizzazione, assegnando ruoli staff, mettendosi a disposizione a livello Network e tutte le complessità controllabili solo dai Fondatori.
+Se ci sono due o più modalità uguali, è possibile revisionare quella già esistente in modo da aumentare l'efficacia di Gameplay oppure implementare una variante della stessa modalità con una struttura differente dall'originale, esempio:
+
+- Server X possiede: Survival
+-  Server Y possiede: Survival
+
+La scelta può ricadere su:
+- Migliorare la modalità Survival prima arrivata implementando nuovi sistemi ottimizzati e funzionanti con quello che già è avviato.
+- Conversione della modalità seconda modalità Survival in una variante simile (Survival Custom, Vanilla etc)
+
+##
+# 5. Lato Economia e Spese
+Tutti i fondatori dovranno immettere una percentuale della spesa totale per i rinnovi dei servizi, della macchina, di licenze, etc su un conto dedicato solo alla spesa in uscita del Network;
+Tutte le modalità avranno i loro pacchetti separati con i loro store divisi per modalità in modo tale che:
+per alleggerire il peso organizzativo economico, i fondatori di ogni modalità originaria percepiscano solo dai pacchetti che loro stesso offrono nella modalità da gestire.
+Tuttavia in caso di condivisione per l'acquisto di Plugins Premium o servizi terzi i fondatori possono condividere quest'ultimi dopo l'acquisto organizzato da entrambi.
+Si ricorda che la rivendita di plugin premium viola le normative di siti di Resources Publishing come SpigotMC, Polymart e BuiltByBit.
+
+##
+# 6. Lato Tecnico
+Il lato tecnico di come implementare le modalità all'interno del Network è vario da server a server, notando la possibilità di convertire salvataggi di dati, di UUIDs etc per limitare la perdita di dati a 0.
+Questo dipende da server a server come descritto prima e il metodo può essere differente per ogni uno, ciò va organizzato a livello finale del patto prima della ufficializzazione.
+Di norma, mettiamo a disposizione una macchina dedicata per la gestione dell'intero Network sotto interfaccia grafica web con account personali, tuttavia diamo libero arbitrio a coloro che posseggono già una macchina loro su dove dare host ai server delle modalità, tutto ciò rigorosamente condiviso.
+
+Prima di eseguire l'unione, troveremo punti di incontro sicuri ed efficienti per non alterare la sicurezza del Network e del lato backend, inclusi backup, performance etc.
+
+Verrà messo a disposizione per coloro che decideranno di eseguire sulla uguale macchina, sicurezze a livello di Anti-Exploit licenzato (max. 1 IP) in omaggio con tutte le configurazione firewall già pre-fatte con configurazioni efficienti e sicure.
+Saranno limitati gli accessi alla macchina terminale (Linux) restringendo inizialmente coloro che posseggono le SSH Key o altri beni di sicurezza dato la presenza di un interfaccia Web di gestione dei server.
+
+Gli indirizzi IP del server originario punteranno via tunnel al server Proxy che gestirà tutte le modalità condivise, il sito web invece rimarrà inizialmente indipendente o con un redirect, lo store rimarrà permanentemente indipendente dato il punto 5.
+
+Per quanto riguarda i premi votazioni saranno condivisi in tutte le modalità con l'uguale Listener, i premi possono variare da modalità a modalità.
+
+Il lato tecnico va approfondito verbalmente con i gestori dei Server, adeguandosi se possibile anche a sistemi già esistenti.
+
+##
+# 7. Patto Head-Staff
+
+Il progetto richiede massima responsabilità da parte di tutti fondatori richiedendo serietà e professionalità con il rispetto del Regolamento Staff e dei patti acquisiti durante la decisione dei punti di incontro, il Regolamento Staff ed il Regolamento per le Inglobazioni possono essere aggiornati a vantaggio di un equilibrio bilanciato ed una corretta gestione in gruppo di un intero progetto a cui ispiriamo.
+
+Alcuni punti devono essere rivisti verbalmente in sessioni orali e organizzative in modo tale che tutti abbiano la comodità di gestione, tecnica ed etica, le decisioni possono variare da gestore a gestore e potrebbero non rispettare alcuni punti di questo regolamento pur chè questo sia coerente.
+
+Si invita tutti i fondatori a rispettare il patto pre-stabilito in forma amichevole e professionale, rispettando l'etica morale e le regole previste anche in piattaforme esterne come per citarne alcune: (Minecraft ITALIA, MineAlpha etc)
+
+Questo regolamento è in continuo aggiornamento...
