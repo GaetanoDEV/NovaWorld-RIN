@@ -2,13 +2,13 @@
 
 # NovaWorld - Regolamento Inglobazione Network
 Indice:
-- 1. Il progetto
-- 2. Organizzazione dei Social & Community
-- 3. Organizzazione del Team Staff & Head-Staff
-- 4. Suddivisione delle modalità
-- 5. Organizzazione lato economia
-- 6. Organizzazione lato tecnico
-- 7. Finalizzazione & patto Head-Staff
+- I. Il progetto
+- II. Organizzazione dei Social & Community
+- III. Organizzazione del Team Staff & Head-Staff
+- IV. Suddivisione delle modalità
+- V. Organizzazione lato economia
+- VI. Organizzazione lato tecnico
+- VII. Finalizzazione & patto Head-Staff
 
 ## 
 # 1. Il progetto
